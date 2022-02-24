@@ -100,39 +100,57 @@ export const ReasonsData = [
     },
     {
         id: 24,
-        msg: '24.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '24.- Te amo por querer formar una familia conmigo.'
 
     },
     {
         id: 25,
-        msg: '25.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '25.- Te amo por ser una mujer esforzada y que no depende de nadie..'
 
     },
     {
         id: 26,
-        msg: '26.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '26.- Te amo por tu resiliencia..'
 
     },
     {
         id: 27,
-        msg: '27.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '27.- Te amo porque eres la mujer mas especial que pude conocer.'
 
     },
     {
         id: 28,
-        msg: '28.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '28.- Te amo por ser la mujer de mis sueños.'
 
     },
     {
         id: 29,
-        msg: '29.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '29.- Te amo por ser una mujer soñadora.'
 
     },
     {
         id: 30,
-        msg: '30-.- Amo tu cuerpo , amo cada centimetro de ti.'
+        msg: '30.-  Te amo por abrirte hacia mi a pesar de tener miedo de lo que pueda pasar...'
 
     },
+    {
+        id: 31,
+        msg: '31.-  Te amo por saltar conmigo a pesar de las consecuencias.'
+
+    },
+    {
+        id: 32,
+        msg: '32.- Te amo por el amor infinito que me provocas con tus abrazos.'
+
+    },
+    {
+        id: 33,
+        msg: '33.-  Te amo por la paz que me brindas al tomar mi mano.'
+
+    },
+
+
+
 
 
     ];
