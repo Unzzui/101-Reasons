@@ -61,11 +61,11 @@ export const ReasonsData = [
     },
     {
         id: 16,
-        msg: '16.- Te amo porque te extrano cuando me dejas.'
+        msg: '16.- Te amo porque te extraño cuando me dejas despues de vernos.'
     }, 
     {
         id: 17,
-        msg: '17.- Te amo por ser mi singularidad, perderme en el tiempo estando contigo/'
+        msg: '17.- Te amo por ser mi singularidad, perderme en el tiempo estando contigo es algo unico.'
     },
     {
         id: 18,
@@ -105,12 +105,12 @@ export const ReasonsData = [
     },
     {
         id: 25,
-        msg: '25.- Te amo por ser una mujer esforzada y que no depende de nadie..'
+        msg: '25.- Te amo por ser una mujer esforzada y que no depende de nadie...'
 
     },
     {
         id: 26,
-        msg: '26.- Te amo por tu resiliencia..'
+        msg: '26.- Te amo por tu resiliencia...'
 
     },
     {
