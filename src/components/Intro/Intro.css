@@ -39,29 +39,39 @@
 
 .i-title-wrapper{
     height: 100%;
-    animation: move 10s ease-in-out infinite alternate;
+    animation: move 16s ease-in-out infinite alternate;
 }
 
 
 @keyframes move {
-    16.6%{
-        transform: translateY(-50px);
+    0%{
+        transform: translateY(-10px);
     }
-    33.3%{
-        transform: translateY(-100px);
+    12.5%{
+        transform: translateY(-60px);
     }
-    49.8%{
-        transform: translateY(-150px);
+    25%{
+        transform: translateY(-110px);
     }
-    66.4%{
-        transform: translateY(-200px);
+    37.5%{
+        transform: translateY(-160px);
     }
-    83%{
-        transform: translateY(-250px);
+    50%{
+        transform: translateY(-210px);
+    }
+    62.5%{
+        transform: translateY(-260px);
+    }
+    75%{
+        transform: translateY(-310px);
+    }
+    87.5%{
+        transform: translateY(-360px);
     }
     100%{
-        transform: translateY(-300px);
+        transform: translateY(-410px);
     }
+ 
 }
 
 

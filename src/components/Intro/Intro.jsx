@@ -21,6 +21,9 @@ const Intro = () => {
                         <div className='i-title-item'>Grandiosa</div>
                         <div className='i-title-item'>Perfecta</div>
                         <div className='i-title-item'>Hermosa</div>
+                        <div className='i-title-item'>Manjarcito</div>
+
+
 
                     </div>
                 </div>
