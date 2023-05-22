@@ -159,7 +159,7 @@ export const ReasonsData = [
 },
 {
     id: 36,
-    msg: '36.- "Te amo porque me haces sentir completo/a en todos los sentidos."'
+    msg: '36.- "Te amo porque me haces sentir completo en todos los sentidos."'
 },
 {
     id: 37,
@@ -183,7 +183,7 @@ export const ReasonsData = [
 },
 {
     id: 42,
-    msg: '42.- "Te amo porque me haces sentir único/a y especial."'
+    msg: '42.- "Te amo porque me haces sentir único y especial."'
 },
 {
     id: 43,
@@ -227,7 +227,7 @@ export const ReasonsData = [
 },
 {
     id: 53,
-    msg: '53.- "Te amo porque juntos/as somos invencibles."'
+    msg: '53.- "Te amo porque juntos somos invencibles."'
 },
 {
     id: 54,
@@ -367,7 +367,7 @@ export const ReasonsData = [
 },
 {
     id: 88,
-    msg: '88.- "Te amo porque eres mi confidente y mi mejor amigo/a."'
+    msg: '88.- "Te amo porque eres mi confidente y mi mejor amiga."'
 },
 {
     id: 89,
